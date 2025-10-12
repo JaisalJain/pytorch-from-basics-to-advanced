@@ -43,6 +43,11 @@ Example:
 
 ---
 
+## Dataset (FoodVisionMini 101)
+### https://drive.google.com/drive/folders/1-XAUe63bq-LgazpzkP229NUPm09N5sX1?usp=sharing
+
+---
+
 ## 🛠 Local Setup (optional)
 
 If you prefer to run the notebooks locally:
